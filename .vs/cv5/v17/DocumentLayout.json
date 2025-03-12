@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\PNET\\cv5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6987A48-3C2F-4210-A340-DA38F43C57D0}|cv5.csproj|c:\\users\\kubae\\onedrive\\dokumenty\\pnet\\cv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6987A48-3C2F-4210-A340-DA38F43C57D0}|cv5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6987A48-3C2F-4210-A340-DA38F43C57D0}|cv5.csproj|C:\\Users\\kubae\\OneDrive\\Dokumenty\\PNET\\cv5\\icomplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6987A48-3C2F-4210-A340-DA38F43C57D0}|cv5.csproj|solutionrelative:icomplex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IComplex.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\PNET\\cv5\\IComplex.cs",
+              "RelativeDocumentMoniker": "IComplex.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\PNET\\cv5\\IComplex.cs",
+              "RelativeToolTip": "IComplex.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:28:59.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\PNET\\cv5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kubae\\OneDrive\\Dokumenty\\PNET\\cv5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAiwHwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T11:15:24.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

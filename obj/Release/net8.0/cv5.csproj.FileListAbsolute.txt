@@ -1,0 +1,14 @@
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\bin\Release\net8.0\cv5.exe
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\bin\Release\net8.0\cv5.deps.json
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\bin\Release\net8.0\cv5.runtimeconfig.json
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\bin\Release\net8.0\cv5.dll
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\bin\Release\net8.0\cv5.pdb
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\cv5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\cv5.AssemblyInfoInputs.cache
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\cv5.AssemblyInfo.cs
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\cv5.csproj.CoreCompileInputs.cache
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\cv5.dll
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\refint\cv5.dll
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\cv5.pdb
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\cv5.genruntimeconfig.cache
+C:\Users\kubae\OneDrive\Dokumenty\PNET\cv5\obj\Release\net8.0\ref\cv5.dll
